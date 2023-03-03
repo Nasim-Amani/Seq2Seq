@@ -1,4 +1,4 @@
 # Se2Seq
-**Simple_seq2seq** : It is the basic sequential LSTM using:
+**Simple_LSTM** : It is the basic sequential LSTM using:
                 TimeseriesGenerator,
-                Making a Pred column in the dataframe. 
+                Making a Pred column in the dataframe.
